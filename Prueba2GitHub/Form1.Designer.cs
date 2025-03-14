@@ -36,7 +36,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.BackColor = System.Drawing.Color.OrangeRed;
+            this.pictureBox1.BackColor = System.Drawing.Color.Yellow;
             this.pictureBox1.Location = new System.Drawing.Point(-5, 43);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(806, 52);
@@ -45,7 +45,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.BackColor = System.Drawing.Color.Red;
+            this.pictureBox2.BackColor = System.Drawing.Color.Cyan;
             this.pictureBox2.Location = new System.Drawing.Point(-5, 153);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(806, 52);
